@@ -5,7 +5,7 @@ Items (such as Articles and Users).
 
 ## Installation
 
-Download the [latest release](/mitydigital/joomla-item-helper/releases/latest/download/plg_content_mityitemhelper.zip),
+Download the [latest release](https://github.com/mitydigital/joomla-item-helper/releases/latest/download/plg_content_mityitemhelper.zip),
 and install it via Joomla's Extensions administrator interface.
 
 ### Updates
