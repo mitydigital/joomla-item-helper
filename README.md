@@ -1,4 +1,4 @@
-# Item Helper plugin for Joomla 3
+# Item Helper plugin for Joomla 3 and 4
 
 This plugin processes Custom Fields for easier access, and provides additional helper functions when working with
 Items (such as Articles and Users).
