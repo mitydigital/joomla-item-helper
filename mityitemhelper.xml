@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="3.7" type="plugin" group="content" method="upgrade">
+    <name>Mity Item Helper Content Plugin</name>
+    <author>Mity Digital</author>
+    <creationDate>July 2020</creationDate>
+    <authorUrl>https://www.mity.com.au</authorUrl>
+    <version>1.2.1</version>
+    <description>PLG_CONTENT_MITYITEMHELPER_XML_DESCRIPTION</description>
+    <files>
+        <folder>language</folder>
+        <filename>ItemHelper.php</filename>
+        <filename plugin="mityitemhelper">mityitemhelper.php</filename>
+        <filename>index.html</filename>
+        <filename>README.md</filename>
+    </files>
+    <config/>
+    <updateservers>
+        <server type="extension" name="Mity Item Helper Updates" priority="2">https://extensions.mity.com.au/extensions/plg_content_mityitemhelper/plg_content_mityitemhelper.xml</server>
+    </updateservers>
+</extension>
