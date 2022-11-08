@@ -3,6 +3,12 @@
 This plugin processes Custom Fields for easier access, and provides additional helper functions when working with
 Items (such as Articles and Users).
 
+## UPDATE NOVEMBER 2022
+
+Mity Digital no longer create websites using Joomla, and as such, no longer maintaining or updating this plugin. Feel free to fork it to your heart's content. 
+
+Support is no longer available for this plugin.
+
 ## Installation
 
 Download the [latest release](https://github.com/mitydigital/joomla-item-helper/releases/latest/download/plg_content_mityitemhelper.zip),
